@@ -1,0 +1,60 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 5vh;
+  display: flex;
+  flex-direction: row;
+  color: white;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.App-link {
+  color: #61dafb;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: calc(5px + 1.5vmin);
+  margin-right: 20px;
+  text-decoration: none;
+  border-right: 1px solid #c6edf8;
+  padding-right: 20px;
+}
+
+.App-link:hover {
+  color: #c6edf8;
+}
+.container-fluid {
+  padding-top: 20px;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+h1.title {
+  font-size: 32px;
+  border-bottom: 1px solid #dbdbdb;
+  padding-bottom: 10px;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.login-wrapper {
+}
+
+.any-react-component-wrapper {
+  justify-content: 'center';
+  text-align: 'center';
+}
+.any-react-component-img {
+  width: 40px;
+  height: 40px;
+  margin-top: -40px;
+}
+.any-react-component-txt {
+  font-size: 12;
+  font-weight: 'bold';
+  text-align: 'center';
+}
+.dropdown-button-drop-down {
+  float: right;
+}
+.button-login-wrapper {
+  text-align: center !important;
+  align-content: center;
+}
